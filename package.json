@@ -17,8 +17,10 @@
   },
   "homepage": "http://hopi.io",
   "dependencies": {
-    "express": "^4.12.3",
+    "express": "^4.11.2",
     "mustache-express": "^1.2.1",
+    "passport": "^0.2.1",
+    "passport-nuwe": "^2.0.0",
     "request": "^2.54.0"
   }
 }
